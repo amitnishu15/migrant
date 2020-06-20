@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/migrant/static/css/main.defca16d.chunk.css",
+    "main.js": "/migrant/static/js/main.18b59b08.chunk.js",
+    "main.js.map": "/migrant/static/js/main.18b59b08.chunk.js.map",
+    "runtime-main.js": "/migrant/static/js/runtime-main.5204b81f.js",
+    "runtime-main.js.map": "/migrant/static/js/runtime-main.5204b81f.js.map",
+    "static/css/2.db5ba12e.chunk.css": "/migrant/static/css/2.db5ba12e.chunk.css",
+    "static/js/2.e1a5d840.chunk.js": "/migrant/static/js/2.e1a5d840.chunk.js",
+    "static/js/2.e1a5d840.chunk.js.map": "/migrant/static/js/2.e1a5d840.chunk.js.map",
+    "index.html": "/migrant/index.html",
+    "precache-manifest.11f4e0ee646041360fe908179c3fdcc7.js": "/migrant/precache-manifest.11f4e0ee646041360fe908179c3fdcc7.js",
+    "service-worker.js": "/migrant/service-worker.js",
+    "static/css/2.db5ba12e.chunk.css.map": "/migrant/static/css/2.db5ba12e.chunk.css.map",
+    "static/css/main.defca16d.chunk.css.map": "/migrant/static/css/main.defca16d.chunk.css.map",
+    "static/js/2.e1a5d840.chunk.js.LICENSE.txt": "/migrant/static/js/2.e1a5d840.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/migrant/static/media/fa-solid-900.ec763292.svg",
+    "static/media/logo.svg": "/migrant/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5204b81f.js",
+    "static/css/2.db5ba12e.chunk.css",
+    "static/js/2.e1a5d840.chunk.js",
+    "static/css/main.defca16d.chunk.css",
+    "static/js/main.18b59b08.chunk.js"
+  ]
+}
