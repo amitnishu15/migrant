@@ -1,27 +1,43 @@
 {
   "files": {
     "main.css": "/migrant/static/css/main.defca16d.chunk.css",
-    "main.js": "/migrant/static/js/main.18b59b08.chunk.js",
-    "main.js.map": "/migrant/static/js/main.18b59b08.chunk.js.map",
+    "main.js": "/migrant/static/js/main.d30bd95f.chunk.js",
+    "main.js.map": "/migrant/static/js/main.d30bd95f.chunk.js.map",
     "runtime-main.js": "/migrant/static/js/runtime-main.5204b81f.js",
     "runtime-main.js.map": "/migrant/static/js/runtime-main.5204b81f.js.map",
     "static/css/2.db5ba12e.chunk.css": "/migrant/static/css/2.db5ba12e.chunk.css",
-    "static/js/2.e1a5d840.chunk.js": "/migrant/static/js/2.e1a5d840.chunk.js",
-    "static/js/2.e1a5d840.chunk.js.map": "/migrant/static/js/2.e1a5d840.chunk.js.map",
+    "static/js/2.2e3d80c0.chunk.js": "/migrant/static/js/2.2e3d80c0.chunk.js",
+    "static/js/2.2e3d80c0.chunk.js.map": "/migrant/static/js/2.2e3d80c0.chunk.js.map",
     "index.html": "/migrant/index.html",
-    "precache-manifest.11f4e0ee646041360fe908179c3fdcc7.js": "/migrant/precache-manifest.11f4e0ee646041360fe908179c3fdcc7.js",
+    "precache-manifest.638e98daed6be3f484709d58033df666.js": "/migrant/precache-manifest.638e98daed6be3f484709d58033df666.js",
     "service-worker.js": "/migrant/service-worker.js",
     "static/css/2.db5ba12e.chunk.css.map": "/migrant/static/css/2.db5ba12e.chunk.css.map",
     "static/css/main.defca16d.chunk.css.map": "/migrant/static/css/main.defca16d.chunk.css.map",
-    "static/js/2.e1a5d840.chunk.js.LICENSE.txt": "/migrant/static/js/2.e1a5d840.chunk.js.LICENSE.txt",
+    "static/js/2.2e3d80c0.chunk.js.LICENSE.txt": "/migrant/static/js/2.2e3d80c0.chunk.js.LICENSE.txt",
+    "static/media/Books.jpg": "/migrant/static/media/Books.a69f84f0.jpg",
+    "static/media/QrCodeAmit2.jpg": "/migrant/static/media/QrCodeAmit2.354ebaf8.jpg",
+    "static/media/avatar-1.png": "/migrant/static/media/avatar-1.ddcee11a.png",
+    "static/media/avatar-2.png": "/migrant/static/media/avatar-2.09b1e514.png",
+    "static/media/avatar-3.png": "/migrant/static/media/avatar-3.f375f8f4.png",
+    "static/media/avatar-4.png": "/migrant/static/media/avatar-4.2918610d.png",
+    "static/media/avatar-5.png": "/migrant/static/media/avatar-5.9929a956.png",
+    "static/media/bicycle.png": "/migrant/static/media/bicycle.ba2196a3.png",
+    "static/media/blood3.jpg": "/migrant/static/media/blood3.48f19917.jpg",
+    "static/media/cloths2.jpg": "/migrant/static/media/cloths2.1e552eda.jpg",
     "static/media/all.css": "/migrant/static/media/fa-solid-900.ec763292.svg",
-    "static/media/logo.svg": "/migrant/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/migrant/static/media/logo.5d5d9eef.svg",
+    "static/media/migrant2.jpg": "/migrant/static/media/migrant2.5543948f.jpg",
+    "static/media/migrant3.jpg": "/migrant/static/media/migrant3.7d939b6d.jpg",
+    "static/media/migrant5.jpg": "/migrant/static/media/migrant5.b000f86b.jpg",
+    "static/media/migrant6.jpg": "/migrant/static/media/migrant6.35531111.jpg",
+    "static/media/migrant8.jpg": "/migrant/static/media/migrant8.d33a191c.jpg",
+    "static/media/mobile.jpg": "/migrant/static/media/mobile.79870d59.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5204b81f.js",
     "static/css/2.db5ba12e.chunk.css",
-    "static/js/2.e1a5d840.chunk.js",
+    "static/js/2.2e3d80c0.chunk.js",
     "static/css/main.defca16d.chunk.css",
-    "static/js/main.18b59b08.chunk.js"
+    "static/js/main.d30bd95f.chunk.js"
   ]
 }

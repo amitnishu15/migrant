@@ -1,31 +1,71 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8cbe3d75754f6f341a6ac285ac8073b",
+    "revision": "f0571d16093693f303a52dbe00fe428c",
     "url": "/migrant/index.html"
   },
   {
-    "revision": "1563c4830633eebbac40",
+    "revision": "68841842a7bc26637288",
     "url": "/migrant/static/css/2.db5ba12e.chunk.css"
   },
   {
-    "revision": "4650cfa4d976d1556b27",
+    "revision": "a98979b998e15e121c20",
     "url": "/migrant/static/css/main.defca16d.chunk.css"
   },
   {
-    "revision": "1563c4830633eebbac40",
-    "url": "/migrant/static/js/2.e1a5d840.chunk.js"
+    "revision": "68841842a7bc26637288",
+    "url": "/migrant/static/js/2.2e3d80c0.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/migrant/static/js/2.e1a5d840.chunk.js.LICENSE.txt"
+    "url": "/migrant/static/js/2.2e3d80c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4650cfa4d976d1556b27",
-    "url": "/migrant/static/js/main.18b59b08.chunk.js"
+    "revision": "a98979b998e15e121c20",
+    "url": "/migrant/static/js/main.d30bd95f.chunk.js"
   },
   {
     "revision": "a4ddd4aa4b9e6d5b7418",
     "url": "/migrant/static/js/runtime-main.5204b81f.js"
+  },
+  {
+    "revision": "a69f84f093622087cef3b3d0c40ee3fe",
+    "url": "/migrant/static/media/Books.a69f84f0.jpg"
+  },
+  {
+    "revision": "354ebaf8ac18ed4f9c77ceddc513f42a",
+    "url": "/migrant/static/media/QrCodeAmit2.354ebaf8.jpg"
+  },
+  {
+    "revision": "ddcee11a488234a5d6dce45403db8ff7",
+    "url": "/migrant/static/media/avatar-1.ddcee11a.png"
+  },
+  {
+    "revision": "09b1e51420b75b41f90479f6d666145a",
+    "url": "/migrant/static/media/avatar-2.09b1e514.png"
+  },
+  {
+    "revision": "f375f8f408b5c78d9aaa26e3f6a5e96a",
+    "url": "/migrant/static/media/avatar-3.f375f8f4.png"
+  },
+  {
+    "revision": "2918610d97659f858bbbb7c226ed6842",
+    "url": "/migrant/static/media/avatar-4.2918610d.png"
+  },
+  {
+    "revision": "9929a95662c5800cba8a34fef99473a4",
+    "url": "/migrant/static/media/avatar-5.9929a956.png"
+  },
+  {
+    "revision": "ba2196a32314cfed17ee674c02379ba3",
+    "url": "/migrant/static/media/bicycle.ba2196a3.png"
+  },
+  {
+    "revision": "48f19917d6c1fe8d19829d047cfb960f",
+    "url": "/migrant/static/media/blood3.48f19917.jpg"
+  },
+  {
+    "revision": "1e552edaca759023c5cdc3be38e64162",
+    "url": "/migrant/static/media/cloths2.1e552eda.jpg"
   },
   {
     "revision": "0cb5a5c0d251c109458c85c6afeffbaa",
@@ -90,5 +130,29 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/migrant/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "5543948f04bfb8b73881cc1d2b5eea3c",
+    "url": "/migrant/static/media/migrant2.5543948f.jpg"
+  },
+  {
+    "revision": "7d939b6d151d3335e28af482ce20928b",
+    "url": "/migrant/static/media/migrant3.7d939b6d.jpg"
+  },
+  {
+    "revision": "b000f86b60b4ebe520d6301880e804de",
+    "url": "/migrant/static/media/migrant5.b000f86b.jpg"
+  },
+  {
+    "revision": "3553111104223aaac21f2cfefabed5bb",
+    "url": "/migrant/static/media/migrant6.35531111.jpg"
+  },
+  {
+    "revision": "d33a191cf5bfd7bdb5af1eee02e0e295",
+    "url": "/migrant/static/media/migrant8.d33a191c.jpg"
+  },
+  {
+    "revision": "79870d593baf98e06cce9c5d6f14c805",
+    "url": "/migrant/static/media/mobile.79870d59.jpg"
   }
 ]);
