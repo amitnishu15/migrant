@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92c967a5c9869e3239e339f3f4c2e85a",
+    "revision": "c717f1af5b3ee26db0fbd9b5c83aea53",
     "url": "/migrant/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/migrant/static/css/2.db5ba12e.chunk.css"
   },
   {
-    "revision": "d705e6c54d054cdda541",
+    "revision": "4600732ef364b5007b36",
     "url": "/migrant/static/css/main.defca16d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/migrant/static/js/2.e1a5d840.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d705e6c54d054cdda541",
-    "url": "/migrant/static/js/main.101043e6.chunk.js"
+    "revision": "4600732ef364b5007b36",
+    "url": "/migrant/static/js/main.8ed665e1.chunk.js"
   },
   {
     "revision": "a4ddd4aa4b9e6d5b7418",
