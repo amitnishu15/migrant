@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0571d16093693f303a52dbe00fe428c",
+    "revision": "ad33f603e7f944a15603d04f7b56a2d8",
     "url": "/migrant/index.html"
   },
   {
-    "revision": "68841842a7bc26637288",
+    "revision": "0cefc4d108656e15f4b1",
     "url": "/migrant/static/css/2.db5ba12e.chunk.css"
   },
   {
-    "revision": "a98979b998e15e121c20",
+    "revision": "dbce143b7f3609a5bc77",
     "url": "/migrant/static/css/main.defca16d.chunk.css"
   },
   {
-    "revision": "68841842a7bc26637288",
-    "url": "/migrant/static/js/2.2e3d80c0.chunk.js"
+    "revision": "0cefc4d108656e15f4b1",
+    "url": "/migrant/static/js/2.e0fd1e8c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/migrant/static/js/2.2e3d80c0.chunk.js.LICENSE.txt"
+    "url": "/migrant/static/js/2.e0fd1e8c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a98979b998e15e121c20",
-    "url": "/migrant/static/js/main.d30bd95f.chunk.js"
+    "revision": "dbce143b7f3609a5bc77",
+    "url": "/migrant/static/js/main.90f9c107.chunk.js"
   },
   {
     "revision": "a4ddd4aa4b9e6d5b7418",
