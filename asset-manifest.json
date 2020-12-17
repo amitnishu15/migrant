@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/migrant/static/css/main.defca16d.chunk.css",
-    "main.js": "/migrant/static/js/main.9d5826cc.chunk.js",
-    "main.js.map": "/migrant/static/js/main.9d5826cc.chunk.js.map",
-    "runtime-main.js": "/migrant/static/js/runtime-main.5204b81f.js",
-    "runtime-main.js.map": "/migrant/static/js/runtime-main.5204b81f.js.map",
-    "static/css/2.db5ba12e.chunk.css": "/migrant/static/css/2.db5ba12e.chunk.css",
-    "static/js/2.e1a5d840.chunk.js": "/migrant/static/js/2.e1a5d840.chunk.js",
-    "static/js/2.e1a5d840.chunk.js.map": "/migrant/static/js/2.e1a5d840.chunk.js.map",
-    "index.html": "/migrant/index.html",
-    "precache-manifest.c57b1eb5038fb6933ca8a888e9e492b4.js": "/migrant/precache-manifest.c57b1eb5038fb6933ca8a888e9e492b4.js",
-    "service-worker.js": "/migrant/service-worker.js",
-    "static/css/2.db5ba12e.chunk.css.map": "/migrant/static/css/2.db5ba12e.chunk.css.map",
-    "static/css/main.defca16d.chunk.css.map": "/migrant/static/css/main.defca16d.chunk.css.map",
-    "static/js/2.e1a5d840.chunk.js.LICENSE.txt": "/migrant/static/js/2.e1a5d840.chunk.js.LICENSE.txt",
-    "static/media/all.css": "/migrant/static/media/fa-solid-900.ec763292.svg",
-    "static/media/logo.svg": "/migrant/static/media/logo.5d5d9eef.svg"
+    "main.css": "/migrant2/static/css/main.7108807e.chunk.css",
+    "main.js": "/migrant2/static/js/main.9ebc24b9.chunk.js",
+    "main.js.map": "/migrant2/static/js/main.9ebc24b9.chunk.js.map",
+    "runtime-main.js": "/migrant2/static/js/runtime-main.cf154edc.js",
+    "runtime-main.js.map": "/migrant2/static/js/runtime-main.cf154edc.js.map",
+    "static/css/2.1e299b72.chunk.css": "/migrant2/static/css/2.1e299b72.chunk.css",
+    "static/js/2.1b8f9337.chunk.js": "/migrant2/static/js/2.1b8f9337.chunk.js",
+    "static/js/2.1b8f9337.chunk.js.map": "/migrant2/static/js/2.1b8f9337.chunk.js.map",
+    "index.html": "/migrant2/index.html",
+    "precache-manifest.0d172b1bdf57d700f12575b3d01718ba.js": "/migrant2/precache-manifest.0d172b1bdf57d700f12575b3d01718ba.js",
+    "service-worker.js": "/migrant2/service-worker.js",
+    "static/css/2.1e299b72.chunk.css.map": "/migrant2/static/css/2.1e299b72.chunk.css.map",
+    "static/css/main.7108807e.chunk.css.map": "/migrant2/static/css/main.7108807e.chunk.css.map",
+    "static/js/2.1b8f9337.chunk.js.LICENSE.txt": "/migrant2/static/js/2.1b8f9337.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/migrant2/static/media/fa-solid-900.ec763292.svg",
+    "static/media/logo.svg": "/migrant2/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5204b81f.js",
-    "static/css/2.db5ba12e.chunk.css",
-    "static/js/2.e1a5d840.chunk.js",
-    "static/css/main.defca16d.chunk.css",
-    "static/js/main.9d5826cc.chunk.js"
+    "static/js/runtime-main.cf154edc.js",
+    "static/css/2.1e299b72.chunk.css",
+    "static/js/2.1b8f9337.chunk.js",
+    "static/css/main.7108807e.chunk.css",
+    "static/js/main.9ebc24b9.chunk.js"
   ]
 }
